@@ -1,1 +1,1 @@
-# Hand-Tracking-App
+# Hand-Tracking-Module
